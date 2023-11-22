@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pr26</string>
+    <string name="toast">Второй вид уведомлений</string>
+    <string name="toast1">Третий вид уведомлений</string>
+</resources>
